@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveyxw&theme=buefy&show_icons=true)](https://github.com/loveyxw)
+
 - 👋 你好, 我是@loveyxw
 - 💞️ 热爱生活，对一切新的事物充满好奇😄
 - 📫 与我联系 **wwang.pw@gmail.com**
