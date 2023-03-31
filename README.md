@@ -1,5 +1,5 @@
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=loveyxw&theme=buefy&show_icons=true">
+<img align="right" width="400" src="https://stats.w2aa.ml/?user=loveyxw">
 
 - 👋 你好, 我是@loveyxw
 
