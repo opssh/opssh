@@ -1,11 +1,10 @@
 
-<img align="right" width="350" src="https://stats.w2aa.ml/?user=loveyxw">
 
 - 👋 你好, 我是@loveyxw
 
 - 💞️ 热爱生活，对一切新的事物充满好奇😄
 
-- 📫 与我联系 **wwang.pw@gmail.com**
+[![GitHub Streak](https://stats.w2aa.ml?user=loveyxw)](https://git.io/streak-stats)
 
 
 
