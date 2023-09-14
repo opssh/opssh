@@ -4,7 +4,7 @@
 
 - 💞️ 热爱生活，对一切新的事物充满好奇😄
 
-[![GitHub Streak](https://stats.w2aa.ml?user=loveyxw)](https://git.io/streak-stats)
+[![GitHub Streak](https://sgithub.vercel.app?user=loveyxw)](https://git.io/streak-stats)
 
 
 
