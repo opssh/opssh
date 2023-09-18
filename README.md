@@ -1,11 +1,5 @@
 
 
-- 👋 你好, 我是@loveyxw
-
-- 💞️ 热爱生活，对一切新的事物充满好奇😄
-
-[![GitHub Streak](https://sgithub.vercel.app?user=loveyxw)](https://git.io/streak-stats)
-
 
 
 <!---
